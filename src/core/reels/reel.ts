@@ -1,0 +1,6 @@
+
+namespace core {
+    class reel {
+
+    }
+}

@@ -1,2 +1,2 @@
 # frontend
-Frontend UI framework for a slot game
+Frontend UI framework for slot game
